@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+env/
+*.env
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# IDE болон бусад
+.vscode/
+.idea/
